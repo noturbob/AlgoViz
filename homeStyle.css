@@ -14,7 +14,7 @@ body {
 
 /* Top Navigation Bar */
 .navbar {
-    background-color: rgba(208, 52, 52, 0.8);
+    background-color: rgba(107, 107, 107, 0.8);
     color: white;
     padding: 10px 20px;
     display: flex;
